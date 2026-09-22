@@ -27,7 +27,7 @@ Nhiều doanh nghiệp gặp khó khăn khi triển khai thủ tục môi trư�
 
 **Giấy phép Môi trường** là loại giấy phép do cơ quan nhà nước có thẩm quyền cấp cho các cơ sở công nghiệp nhằm xác định các chỉ tiêu môi trường theo quy định. Đây đồng thời là công cụ để cơ quan quản lý kiểm soát và điều chỉnh tải lượng chất thải phát sinh, góp phần kiểm soát ô nhiễm và bảo vệ chất lượng môi trường.
 
-Theo tài liệu gốc, **Luật Bảo vệ môi trường 2020** có hiệu lực từ ngày **01/01/2022** đã tích hợp 7 loại giấy phép môi trường thành phần thành một loại giấy phép chung gọi là **Giấy phép Môi trường**.
+Theo **Luật Bảo vệ môi trường 2020** có hiệu lực từ ngày **01/01/2022** đã tích hợp 7 loại giấy phép môi trường thành phần thành một loại giấy phép chung gọi là **Giấy phép Môi trường**.
 
 Việc tích hợp này giúp giảm bớt thủ tục hành chính, thời gian đi lại, thời gian chờ đợi hồ sơ và tạo thuận lợi hơn cho công tác quản lý môi trường.
 
@@ -61,7 +61,7 @@ Do tính chất của từng dự án khác nhau, doanh nghiệp cần rà soát
 
 ## 4. Phí thẩm định cấp Giấy phép Môi trường
 
-Theo tài liệu gốc, phí thẩm định được dẫn chiếu theo **Thông tư 02/2022/TT-BTC**, trong đó:
+Theo quy định, phí thẩm định được dẫn chiếu theo **Thông tư 02/2022/TT-BTC**, trong đó:
 
 | Nhóm dự án | Mức phí được nêu trong tài liệu |
 |---|---:|
@@ -112,13 +112,13 @@ Sau khi hoàn tất quá trình xem xét, cơ quan tiếp nhận thông báo cho
 
 ## 7. Xử phạt khi không có Giấy phép Môi trường
 
-Tài liệu dẫn chiếu **Nghị định 45/2022/NĐ-CP ngày 07/07/2022** về xử phạt vi phạm hành chính trong lĩnh vực bảo vệ môi trường và nhấn mạnh doanh nghiệp cần chủ động chuẩn bị hồ sơ để tránh gián đoạn hoạt động.
+Theo **Nghị định 45/2022/NĐ-CP ngày 07/07/2022** về xử phạt vi phạm hành chính trong lĩnh vực bảo vệ môi trường và nhấn mạnh doanh nghiệp cần chủ động chuẩn bị hồ sơ để tránh gián đoạn hoạt động.
 
 ![Xử phạt dự án đầu tư không có Giấy phép Môi trường](https://moitruonghopnhat.com/upload/default/images/giay-phep-moi-truong-doanh-nghiep-7%20(1)(1).jpg)
 
 ### Trường hợp giấy phép xả thải đã hết hạn
 
-Theo nội dung tài liệu, Luật Bảo vệ môi trường 2020 đã tích hợp giấy phép xả thải vào Giấy phép Môi trường. Vì vậy, trường hợp giấy phép xả thải đã hết hạn thì doanh nghiệp cần thực hiện thủ tục xin cấp GPMT theo quy định thay vì tiếp tục gia hạn giấy phép xả thải cũ.
+Theo Luật Bảo vệ môi trường 2020 đã tích hợp giấy phép xả thải vào Giấy phép Môi trường. Vì vậy, trường hợp giấy phép xả thải đã hết hạn thì doanh nghiệp cần thực hiện thủ tục xin cấp GPMT theo quy định thay vì tiếp tục gia hạn giấy phép xả thải cũ.
 
 ---
 
