@@ -37,7 +37,7 @@ Việc tích hợp này giúp giảm bớt thủ tục hành chính, thời gian
 
 ## 2. Đối tượng phải có Giấy phép Môi trường
 
-Theo **Điều 39, Luật Bảo vệ môi trường 2020**, tài liệu gốc liệt kê các nhóm đối tượng phải có GPMT gồm:
+Theo **Điều 39, Luật Bảo vệ môi trường 2020**, liệt kê các nhóm đối tượng phải có GPMT gồm:
 
 - **Nhóm I:** Dự án đầu tư có nguy cơ tác động xấu đến môi trường ở mức độ cao.
 - **Nhóm II:** Dự án đầu tư có nguy cơ tác động xấu đến môi trường.
@@ -76,7 +76,7 @@ Tham khảo: [Báo giá làm Giấy phép Môi trường](https://moitruonghopnh
 
 ## 5. Thời hạn của Giấy phép Môi trường
 
-Theo **Khoản 4, Điều 40 Luật Bảo vệ môi trường 2020**, tài liệu gốc nêu:
+Theo **Khoản 4, Điều 40 Luật Bảo vệ môi trường 2020**
 
 - **07 năm** đối với dự án đầu tư thuộc Nhóm I.
 - **07 năm** đối với cơ sở sản xuất, kinh doanh, dịch vụ, khu sản xuất, dịch vụ tập trung hoặc cụm công nghiệp đã hoạt động trước ngày Luật Bảo vệ môi trường 2020 có hiệu lực và có tiêu chí môi trường như dự án Nhóm I.
@@ -216,7 +216,7 @@ Hợp Nhất định hướng cung cấp dịch vụ trọn gói với mức ph�
 
 ## 12. Tài liệu tham khảo
 
-Các căn cứ và tài liệu được nhắc đến trong nội dung gốc gồm:
+Bài viết tham khảo một số tài liệu như sau:
 
 - Luật Bảo vệ môi trường 2020.
 - Nghị định 08/2022/NĐ-CP.
