@@ -90,7 +90,7 @@ Thời hạn của GPMT có thể ngắn hơn nếu chủ đầu tư hoặc cơ 
 
 ## 6. Quy trình xin cấp Giấy phép Môi trường
 
-Quy trình xin GPMTgồm 4 bước chính:
+Quy trình xin GPMT gồm 4 bước chính:
 
 ### Bước 1 — Nộp hồ sơ
 
