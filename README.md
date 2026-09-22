@@ -49,7 +49,7 @@ Tham khảo thêm: [Hướng dẫn tra cứu đối tượng cần làm Giấy p
 
 ## 3. Hồ sơ đề nghị cấp Giấy phép Môi trường
 
-Theo nội dung tài liệu, hồ sơ đề nghị cấp GPMT gồm:
+Hồ sơ đề nghị cấp GPMT gồm:
 
 1. **Văn bản đề nghị cấp Giấy phép Môi trường** theo mẫu quy định.
 2. **Báo cáo đề xuất cấp Giấy phép Môi trường**.
@@ -90,7 +90,7 @@ Thời hạn của GPMT có thể ngắn hơn nếu chủ đầu tư hoặc cơ 
 
 ## 6. Quy trình xin cấp Giấy phép Môi trường
 
-Quy trình được trình bày trong tài liệu gồm 4 bước chính:
+Quy trình xin GPMTgồm 4 bước chính:
 
 ### Bước 1 — Nộp hồ sơ
 
@@ -167,7 +167,7 @@ Hợp Nhất cung cấp dịch vụ tư vấn và thực hiện **Giấy phép M
 
 ### Đội ngũ chuyên môn
 
-Theo tài liệu gốc, Hợp Nhất có đội ngũ chuyên gia môi trường nhiều năm kinh nghiệm, có chuyên môn đúng ngành và am hiểu pháp luật môi trường.
+Hợp Nhất có đội ngũ chuyên gia môi trường nhiều năm kinh nghiệm, có chuyên môn đúng ngành và am hiểu pháp luật môi trường.
 
 Khi khách hàng cung cấp hồ sơ và thông tin về vấn đề đang gặp phải, đội ngũ tư vấn sẽ:
 
@@ -236,6 +236,3 @@ Hợp Nhất hoạt động trong lĩnh vực tư vấn và triển khai các gi
 
 **Website:** [moitruonghopnhat.com](https://moitruonghopnhat.com/)
 
----
-
-> **Ghi chú:** File Markdown này được biên tập lại từ tài liệu gốc để phù hợp với cách trình bày trên GitHub. Nội dung pháp lý, số liệu và mô tả dịch vụ được giữ theo tài liệu nguồn; các thành phần HTML, GIF, iframe và CTA mang tính giao diện website đã được lược bỏ hoặc chuyển thành liên kết Markdown.
